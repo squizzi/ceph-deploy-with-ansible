@@ -1,0 +1,5 @@
+ansible==1.9.4
+colored==1.2.1
+paramiko==1.15.2
+ssh-deploy-key==0.4.0
+
